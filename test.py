@@ -23,6 +23,7 @@ doc_ref.set({
     u'middle': u'Mathison',
     u'last': u'Turing',
     u'born': 1912
+
 })
 
 users_ref = db.collection(u'users')
